@@ -8,6 +8,7 @@ This project uses a Convolutional Neural Network (CNN) to automatically detect a
 We used the Breast Ultrasound Images Dataset available on Kaggle:  
 https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
 
+GITHUB REPOSITRY: https://github.com/jaineeshx/Breast-Cancer-Detection-Using-CNN
 —
 
 📂 Project Structure
